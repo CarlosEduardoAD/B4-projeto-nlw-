@@ -1,2 +1,2 @@
-# B4-projeto-nlw
-Projeto feito durante a nlw spacetime
+# B4-project-nlw
+Project made during the Rocketseat's Next Level Week
